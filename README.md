@@ -1,1 +1,1 @@
-# android-magentomanagement
+# Magento Management App
